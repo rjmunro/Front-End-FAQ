@@ -55,8 +55,8 @@ _Waiting for response_
 <details>
 <summary>How do I host a website on GitHub?</summary>
 
-If you know the answer to this question, please submit a pull request with the answer.
+See GitHub's instructions here: https://pages.github.com/
 
 </details>
 
-_Waiting for response_
+GitHub allows you to host static pages on their infrastucture either as HTML pages or built with the Jekyll static site generator. By default they will use the domain https://[yourname].github.io/, but you can set up a CNAME with your DNS provider to host them at your own domain.
